@@ -32,3 +32,9 @@
   <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step4.png" width="800"/>  
 </p>
 
+
+# Add and test for BinarayOperation and = 
+
+<p align="center">
+  <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step5.png" width="800"/>  
+</p>
