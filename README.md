@@ -24,3 +24,11 @@
 <p align="center">
   <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step3.png" width="800"/>  
 </p>
+
+
+# Add and test a new unitaryOperation
+
+<p align="center">
+  <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step4.png" width="800"/>  
+</p>
+
