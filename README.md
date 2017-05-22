@@ -38,3 +38,27 @@
 <p align="center">
   <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step5.png" width="800"/>  
 </p>
+
+# Add executependingbinaray function so 3x3x -> 9 and ready continue with operations
+
+
+<p align="center">
+  <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step6.png" width="800"/>  
+</p>
+
+
+#  simplified Code...Or Not
+
+I prefer
+
+        .BinaryOperation({(a,b)-> Double in return a * b}) 
+        
+ rather than just .BinaryOperation{$0 * $1} or  .BinaryOperation(*) 
+ //func *(lhs: Double, rhs: Double) -> Double  which can be pass into enum
+       
+#  beginners way is always more readable 
+
+
+<p align="center">
+  <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step6.png" width="800"/>  
+</p>
