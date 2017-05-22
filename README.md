@@ -60,5 +60,5 @@ I prefer
 
 
 <p align="center">
-  <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step6.png" width="800"/>  
+  <img src="https://github.com/ericyu423/StandfordiOSCourseProjFIlesNS/blob/master/step7.png" width="800"/>  
 </p>
